@@ -16,6 +16,9 @@ Whether you’re in Zero Build or Classic, this tool gives you the *edge* you ne
 - 🛡 **Anti-Ban & Bypass System** — Stay undetected and dominant  
 - 🖥 **HWID Spoofer** — Get around any ban system like a ghost  
 
+![fornt123](https://github.com/user-attachments/assets/a44f312d-ec4c-4002-a5f1-1b332bc4385a)
+
+
 ---
 
 ## 🚀 Setup in Under 2 Minutes
